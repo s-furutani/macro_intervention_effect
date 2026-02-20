@@ -114,8 +114,8 @@ python intervention_analysis_varying_eta.py -i nudging -g nikolov -s 10 --save_d
 |--------|----------|---------|
 | $\eta$ | `eta` | Misinformation contagiousness |
 | $\lambda$ | `lam` | Exponential delay parameter |
-| $\varepsilon_pre$ | `epsilon_pre` | Prebunking effect strength |
-| $\varepsilon_ctx$ | `epsilon_ctx` | Contextualization effect strength |
-| $\varepsilon_nud$ | `epsilon_nud` | Nudging effect strength |
-| $\delta_pre$ | `delta_pre` | Fraction of nodes targeted by Prebunking |
-| $\phi_ctx$ | `intervention_threshold` | Contextualization trigger parameter |
+| $\varepsilon_{pre}$ | `epsilon_pre` | Prebunking effect strength |
+| $\varepsilon_{ctx}$ | `epsilon_ctx` | Contextualization effect strength |
+| $\varepsilon_{nud}$ | `epsilon_nud` | Nudging effect strength |
+| $\delta_{pre}$ | `delta_pre` | Fraction of nodes targeted by Prebunking |
+| $\phi_{ctx}$ | `intervention_threshold` | Contextualization trigger parameter |
