@@ -68,7 +68,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-### Intervention Simulation (Fixed η)
+### Intervention Simulation
 
 ```bash
 # Prebunking (ε_pre × δ_pre heatmap)
