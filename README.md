@@ -1,4 +1,4 @@
-# Herd Immunity Against Misinformation
+# Macro Intervention Effects
 
 Code for reproducing the results in the paper on "The Impact of Micro-level User Interventions on Macro-level Misinformation Spread". This repository implements a **Continuous-Time Independent Cascade (CTIC)** model for misinformation spread on social networks and evaluates three intervention strategies: **Prebunking**, **Contextualization**, and **Nudging**, both via simulation and quenched mean-field theory.
 
