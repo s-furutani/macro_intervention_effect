@@ -22,10 +22,8 @@ Code for reproducing the results in the paper on "The Impact of Micro-level User
 │   ├── nikolov/                         # Nikolov social network data
 │   ├── twitter_diffusion_dataset/       # Twitter cascade data (for parameter estimation)
 │   ├── intervention_dataset/            # Intervention experiment datasets (for ε estimation)
-│   └── politifact/                      # PolitiFact article data
 └── results/
     ├── nikolov/                         # Results on Nikolov graph
-    ├── randomized_nikolov/              # Results on randomized Nikolov graph
     └── test/                            # Results on test graph
 ```
 
